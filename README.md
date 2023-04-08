@@ -15,6 +15,9 @@ Making the Project Mobile Responsive is a bonus for you otherwise no need to do 
 Use Functional Programming.
 Converting Project to PWA (Progressive Web Application) is a bonus for you otherwise no need to do it.
 
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/70944109/230711838-a6e57f1c-9aba-4ba5-99c4-d7388e02e5c9.png">
+
+
 ## Technologies Used
 HTML
 CSS
